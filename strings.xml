@@ -5,7 +5,7 @@
 
     <!--Welcome Activity-->
     <string name="navigation_drawer_open">Otwórz szufladę nawigacji</string>
-    <string name="navigation_drawer_close">Zamknij szufladę aplikacji</string>
+    <string name="navigation_drawer_close">Zamknij szufladę nawigacji</string>
     <string name="magiskhide">Magisk Hide</string>
     <string name="modules">Moduły</string>
     <string name="downloads">Pobieranie</string>
