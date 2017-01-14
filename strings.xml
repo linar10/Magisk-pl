@@ -20,9 +20,9 @@
 
     <string name="checking_for_updates">Sprawdzanie aktualizacji…</string>
     <string name="magisk_update_available">Magisk v%1$.1f dostępny!</string>
-    <string name="cannot_check_updates">Nie można sprawdzić dostępność aktualizacji, brak internetu?</string>
+    <string name="cannot_check_updates">Nie można sprawdzić dostępność aktualizacji, brak internetu</string>
     <string name="up_to_date">Zainstalowana najnowsza wersja %1$s</string>
-    <string name="root_error">Zrotowany ale bez dostępu do roota?</string>
+    <string name="root_error">Zrotowany ale bez dostępu do roota</string>
     <string name="not_rooted">Nie zrootowany</string>
     <string name="proper_root">Prawidłowo zrootowany</string>
     <string name="safetyNet_check_text">Dotknij aby sprawdzić SafetyNet</string>
@@ -73,8 +73,8 @@
 
     <!--About Activity-->
     <string name="about">O Aplikacji</string>
-    <string name="app_developers">Moi developerzy</string>
-    <string name="app_developers_"><![CDATA[App created by <a href="https://github.com/topjohnwu">topjohnwu</a> in collaboration with <a href="https://github.com/d8ahazard">Digitalhigh</a> and <a href="https://github.com/dvdandroid">Dvdandroid</a>.]]></string>
+    <string name="app_developers">Developerzy</string>
+    <string name="app_developers_"><![CDATA[Autorzy aplikacji <a href="https://github.com/topjohnwu">topjohnwu</a> in collaboration with <a href="https://github.com/d8ahazard">Digitalhigh</a> and <a href="https://github.com/dvdandroid">Dvdandroid</a>.]]></string>
     <string name="app_changelog">Zmiany w Aplikacji</string>
     <string name="translators" />
     <string name="app_version">Wersja Aplikacji</string>
@@ -107,11 +107,10 @@
     <string name="no_magisk_msg">Chcesz pobrać i zainstalować Magisk?</string>
     <string name="downloading_toast">Pobieranie %1$s</string>
     <string name="magisk_update_title">Nowa Wersja Magisk Dostepna!</string>
-    <string name="magisk_update_message">Magisk v%1$.1f jest dostępna, chcesz zainstalować?</string>
+    <string name="magisk_update_message">Magisk v%1$.1f jest dostępna, chcesz zainstalować?  </string>
     <string name="settings_reboot_toast">Uruchom ponownie, aby zastosować ustawienia</string>
     <string name="check_release_notes">Sprawdź informacje o wydaniu</string>
     <string name="repo_cache_cleared">Cache repozytorium wyczyszczone</string>
-
     
     <!--Settings Activity -->
     <string name="settings_general_category">Ogólne</string>
@@ -120,10 +119,10 @@
     <string name="theme_default">Domyślny</string>
     <string name="theme_dark">Ciemny</string>
     <string name="settings_clear_cache_title">Wyczyść Cache Repozytorium</string>
-    <string name="settings_clear_cache_summary">Clear the cached information for online repos, forces the app to refresh online</string>
+    <string name="settings_clear_cache_summary">Wyczyść cache dla repozytorium online, wymusza odświeżenie online przez aplikację</string>
 
     <string name="settings_magiskhide_title">Włącz Magisk Hide</string>
-    <string name="settings_magiskhide_summary">Hide Magisk from various detections</string>
+    <string name="settings_magiskhide_summary">Włącz Hide Magisk dla wykrytych aplikacji</string>
     <string name="settings_busybox_title">Włącz BusyBox</string>
     <string name="settings_busybox_summary">Bind mount Magisk\'s built-in busybox to xbin</string>
     <string name="settings_hosts_title">Włącz systemless hosts</string>
@@ -131,13 +130,13 @@
 
     <string name="settings_development_category">Development</string>
     <string name="settings_developer_logging_title">Włącz zaawansowane logowanie debugowania</string>
-    <string name="settings_developer_logging_summary">Zaznacz to, aby umożliwić pełne rejestrowanie</string>
+    <string name="settings_developer_logging_summary">Zaznacz, aby umożliwić pełne rejestrowanie</string>
     <string name="settings_shell_logging_title">Włącz rejestrowanie poleceń powłoki debugowania</string>
     <string name="settings_shell_logging_summary">Włącz, aby włączyć rejestrowanie wszystkich poleceń powłoki i jego wyjścia</string>
 
     <!-- Themes -->
 	
-    <!--URL Templates-->
+	<!--URL Templates-->
     
 
 
