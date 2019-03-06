@@ -1,5 +1,7 @@
 # Magisk-pl
 Spolszczenie
+
+
 Jeśli chcesz pomóc lub masz propozycję zmiany w tłumaczeniu, tutaj możesz wnieść swoje poprawki
 
 Uwaga!!!
